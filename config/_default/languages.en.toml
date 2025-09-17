@@ -1,0 +1,12 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "NO RIGHT ANSWERS"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "January 2 2006"
+description = "Thoughts & Opinions on Game Design and Development"

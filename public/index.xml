@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NO RIGHT ANSWERS</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on NO RIGHT ANSWERS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modern Controllers are Terrifying</title>
+      <link>http://localhost:1313/posts/modern-controllers-are-terrifying/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/modern-controllers-are-terrifying/</guid>
+      <description>A look at the complexities of controllers for new players</description>
+      
+    </item>
+    
+    <item>
+      <title>Working Remotely in Game Development</title>
+      <link>http://localhost:1313/posts/working-remotely-in-game-dev/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/working-remotely-in-game-dev/</guid>
+      <description>Things to consider when working remotely in game development</description>
+      
+    </item>
+    
+    <item>
+      <title>There and Back Again</title>
+      <link>http://localhost:1313/posts/there-and-back-again/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/there-and-back-again/</guid>
+      <description>Or, How I got into, out of, and back into game Development</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Glossary</title>
+      <link>http://localhost:1313/pages/glossary/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/glossary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>On Design Sense</title>
+      <link>http://localhost:1313/posts/on-design-sense/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/on-design-sense/</guid>
+      <description>What it is and how designers use it to inform their decisions</description>
+      
+    </item>
+    
+    <item>
+      <title>What a Game Designer Does</title>
+      <link>http://localhost:1313/posts/what-a-game-designer-does/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/what-a-game-designer-does/</guid>
+      <description>A high level overview of what game designers do</description>
+      
+    </item>
+    
+  </channel>
+</rss>

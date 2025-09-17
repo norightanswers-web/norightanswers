@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Editorial on NO RIGHT ANSWERS</title>
+    <link>http://localhost:1313/tags/editorial/</link>
+    <description>Recent content in Editorial on NO RIGHT ANSWERS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/editorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modern Controllers are Terrifying</title>
+      <link>http://localhost:1313/posts/modern-controllers-are-terrifying/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/modern-controllers-are-terrifying/</guid>
+      <description>A look at the complexities of controllers for new players</description>
+      
+    </item>
+    
+    <item>
+      <title>There and Back Again</title>
+      <link>http://localhost:1313/posts/there-and-back-again/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/there-and-back-again/</guid>
+      <description>Or, How I got into, out of, and back into game Development</description>
+      
+    </item>
+    
+  </channel>
+</rss>
