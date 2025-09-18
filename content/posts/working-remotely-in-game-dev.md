@@ -6,7 +6,7 @@ summary = 'Things to consider when working remotely in game development'
 tags = ['editorial']
 +++
 
-I’ll admit right off the top that I’m a remote work advocate. I’ve been working remotely in games for 5 years as of this writing, with occasional work-from-home days before that. For anyone familiar with my [professional history](/norightanswers/posts/there-and-back-again/), you’ll also know I worked in IT before I was in games, and that also meant working remotely when needed. Which was often. It’s fair to say I have a lot of experience in remote work. Like everything though, it has its ups and downs. So let’s explore some of those.
+I’ll admit right off the top that I’m a remote work advocate. I’ve been working remotely in games for 5 years as of this writing, with occasional work-from-home days before that. For anyone familiar with my [professional history](/posts/there-and-back-again/), you’ll also know I worked in IT before I was in games, and that also meant working remotely when needed. Which was often. It’s fair to say I have a lot of experience in remote work. Like everything though, it has its ups and downs. So let’s explore some of those.
 
 ---
 
