@@ -84,7 +84,7 @@ mainSections = ["posts"]
     dir = ':cacheDir/:project'
     maxAge = -1
   [caches.images]
-    dir = ':cacheDir/_gen'
+    dir = ':resourceDir/_gen'
     maxAge = -1
   [caches.misc]
     dir = ':cacheDir/:project'
