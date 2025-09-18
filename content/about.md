@@ -10,7 +10,7 @@ heroStyle = "background"
 layoutBackgroundHeaderSpace = false
 +++
 
-<img src="/norightanswers/images/jl.png" height="500" width="397">
+<img src="/images/jl.png" height="500" width="397">
 
 Hullo and welcome to No Right Answers. I’m John Lethbridge and I’m a game designer. I’ve shipped multiple games from Indie to AA to AAA, in teams from 10 to over 1000 and it’s fair to say I’ve Seen Things.
 
