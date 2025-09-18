@@ -16,7 +16,7 @@ So then, if a designer’s role isn’t just about having the next great idea, w
 
 As a designer, you’ll be receiving direction from someone above you. This will likely be a lead designer (some projects have only one, some have several) or in some cases a director. 
 
-Depending on how the studio or project runs, you may be given \- or asked to produce a ‘one pager’ or a brief of some kind that roughly outlines what the high level experience or functionality should be \- or you may be tasked with creating this outline and getting it approved. From this, it will be your job to create a detailed breakdown and description of the feature and all of its components for the team to build. The form this takes will again depend on your studio, project and team. In some cases it may be a paragraph or point form list outlining how the system or feature works, while in others it may be an exhaustive breakdown of every aspect including art, audio, animation, AI behaviours, player-system interactions and every possible edge case with plans for mitigation.
+Depending on how the studio or project runs, you may be given \- or asked to produce \- a ‘one pager’ or a brief of some kind that roughly outlines what the high level experience or functionality should be. From this, it will be your job to create a detailed breakdown and description of the feature and all of its components for the team to build. The form this takes will again depend on your studio, project and team. In some cases it may be a paragraph or point form list outlining how the system or feature works, while in others it may be an exhaustive breakdown of every aspect including art, audio, animation, AI behaviours, player-system interactions and every possible edge case with plans for mitigation.
 
 ## Prototyping
 
@@ -62,9 +62,11 @@ Regardless of the feedback, spending time to understand the details of specific 
 
 As the project nears completion, there is generally a period of time where the game is functional, playable from start to finish, and is mostly free of large, game breaking bugs. At this time features and mechanics will enter the polish phase where you may spend the extra time to iron out all the little kinks in the experience and make it as smooth as possible.
 
-This is a time of negotiation. Development isn’t finished at this stage, but the technical teams will be working to stabilize the game in order to avoid crashes and bugs, but also optimize it to run as well as possible throughout. They will be sorting out framerate dips, lengthy load times and other performance hitches. 
+Development isn’t finished at this stage; the technical teams will be working to stabilize the game in order to avoid crashes and bugs, but also optimize it to run as well as possible throughout. They will be sorting out framerate dips, lengthy load times and other performance hitches. 
 
-At this point in time, designers will want their systems iterated on so the process of, for example, resolving that annoying two second delay between completing an interaction with a chest and getting to see the loot, will end up on a list of priorities. If you want it fixed you’ll need to advocate for it based on how important you feel it is when weighed against all the other changes you or other designers, leads and directors want made.
+This is a time of negotiation and designers will want their systems iterated on so the process of, for example, resolving that annoying two second delay between completing an interaction with a chest and getting to see the loot, will end up on a list of priorities. If you want it fixed you’ll need to advocate for it based on how important you feel it is when weighed against all the other changes you or other designers, leads and directors want made.
+
+---
 
 This is not an exhaustive description of what all game designers do, but rather an outline to help clarify what the role of a designer is and roughly what to expect. It’s worth noting that some designers are more specialized and focus on specific aspects such as AI, Combat or Systems, while others may be more generalized. As always, this depends on the studio, project or team.
 
