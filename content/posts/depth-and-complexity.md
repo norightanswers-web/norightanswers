@@ -1,6 +1,6 @@
 +++
 date = '2025-10-03'
-draft = true
+draft = false
 title = 'Depth and Complexity'
 summary = 'Defining and understanding each so you can use them effectively.'
 tags = ['craft']
