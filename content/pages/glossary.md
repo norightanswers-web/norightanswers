@@ -26,6 +26,7 @@ Below I’ve assembled some terms with definitions. I’ve written them based on
 | Bug                          | An unintended result of code or data, experienced during gameplay                                                                   |
 | Chording (Input)             | Input that is activated by pressing more than button simultaneously                                                                 |
 | Code                         | The instructions written by a programmer for the hardware to follow                                                                 |
+| Cognitive Load               | The amount of effort required by the player to continually preceive, understand, store and recall information related to the gameplay experience. |
 | Collision                    | The intersection of two objects during gameplay. Often refers to preventing objects from overlapping or intersecting.               |
 | Conception                   | One of the earliest project phases in which the core idea for the game is defined and documented.                                   |
 | Content                      | Aspects of the game that used by systems and features as players experience gameplay. Includes, but not limited to, art, levels, missions and narrative.                      |
