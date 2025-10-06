@@ -24,6 +24,7 @@ secondaryLogo = "/images/no-right-answers-logo.png"
 disableImageZoom = true
 backgroundImageWidth = 1920
 defaultBackgroundImage = "/images/bg.png"
+copyright = '© 2025 John Lethbridge'
 
 [header]
 layout = "fixed-fill"
