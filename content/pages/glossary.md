@@ -19,6 +19,7 @@ Below I’ve assembled some terms with definitions. I’ve written them based on
 | Agile                        | A project management methodology intended to place focus on interactions between contributors and product owners in a way that allows for rapid, early results and iteration. |
 | AI (Artificial Intelligence) | The decision making entity or process used by entites during gameplay to carry out actions. Does not refer to Large Language Models (LLMs) or Machine Learning (ML).          |
 | Backlog                      | A project management tool used to organise work that is expected to be done, but without a firm delivery date.                      |
+| Backtrack                    |A gameplay mechanic that requires the player to retraverse a previously expored area in order to gain a benefit or progress further in the game.                      |
 | Balance                      | The resulting experience and perception of systems during gameplay                                                                  |
 | Balancing                    | See tuning                                  |
 | Behaviour Tree               | A hierarchical set of actions and conditions that govern how an AI entity acts during gameplay                                      |
@@ -49,6 +50,8 @@ Below I’ve assembled some terms with definitions. I’ve written them based on
 | Game Feel                    | A term used to describe the responsiveness and polish experienced during gameplay.                                                  |
 | Gameplay                     | The active component of playing the game by interacting with the systems and mechanics. Can be used to decribe the player experience as a whole, or in part.                  |
 | Goal                         | A defined, measurable outcome or result of a design, feature, system or task.                                                       |
+| Hard Failure                 | A gameplay state that results in a player failing a gameplay challenge in an unrecoverable way, usually resulting in losing a life or reloading from a check point or save.                     |
+| Hard Gate                    | A gameplay challenge or condition the player is required to overcome in order to a dvance.                     |
 | Ideation                     | The process of generating and refining ideas. AKA Brainstorming                                                                     |
 | Input                        | Any data that enters a system.              |
 | Input Buffering              | Preserving a button press for an amount of time, to be consumed after a gameplay action or duration has occurred. |
@@ -79,10 +82,13 @@ Below I’ve assembled some terms with definitions. I’ve written them based on
 | Razor                        | A philosophical princple that is used to further hone in on specific expectations, experiences or approaches while developing the game                                        |
 | Rational Game Design         | A game design methodology to create observable, internally consistent systems with clear, predictable outcomes for players. Based on the phrase "Form follows function".      |
 | Review                       | The process, formal or informal, of examining a feature at various points of implementation or polish. Typically done in a group meeting to approve the feature or generate a list of tasks. |
+| Risk vs Reward               | A razor used to evaluate the balance of potential for loss against a positive outcome for the player in a gameplay challenge.         |
 | Scope                        | The defined or available amount of work to be done to complete the task, system or feature in question. Can be used more broadly as a high level concept for the entire game to define what is and is not expected or 	possible within the given timeframe or product. |
 | Scrum                        | A project management framework used with Agile, intended to provide an environment of open communication where change and iteration is expected and responded to in a timely manner.         |
 | Ship                         | The act of releasing the game publicly. AKA Shipping       |
 | Shipping (Phase)             | The final phase of a project before release.               |
+| Soft Failure                 | A gameplay state that results in a player failing a gameplay challenge in a recoverable way, usually being able to reset the mechanic after a short delay.               |
+| Soft Gate                    | A gameplay challenge or condition that the player can fail or partially succeed and still advance.               |
 | Sprint                       | A realtive short period of time, typically measured in weeks, defined within a milestone which tasks are assigned to.               |
 | Stand-up (Meeting)           | A short, informal meeting where participants state their currents tasks, progress and any dependancies (also called blockers) to their immediate team members. Used as component of Scrum.   |
 | Stand-up (Feature)           | The process of producing an early implementation of a feature or system.                                                            |
