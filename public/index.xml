@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 John Lethbridge</copyright>
-    <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Designing in Tiers</title>
+      <link>http://localhost:1313/posts/designing-in-tiers/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/designing-in-tiers/</guid>
+      <description>A method for designing features that lets you start small, grow naturally and react to proction realities.</description>
+      
+    </item>
     
     <item>
       <title>Respect Player&#39;s Time</title>
