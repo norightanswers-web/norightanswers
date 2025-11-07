@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 John Lethbridge</copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Editorial</title>
+      <link>http://localhost:1313/tags/editorial/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/editorial/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Craft</title>
@@ -15,16 +25,6 @@
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/craft/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Editorial</title>
-      <link>http://localhost:1313/tags/editorial/</link>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/editorial/</guid>
       <description></description>
       
     </item>

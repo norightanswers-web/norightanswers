@@ -44,6 +44,7 @@ Below I’ve assembled some terms with definitions. I’ve written them based on
 | First Principle              | The most basic, foundational core of an idea or assumption, used to define the problem space of a feature or goal                   |
 | Feature                      | A portion of the game, usually an atomic collection of systems, that is unique in it's function within the game.                    |
 | Finaling                     | The act of polishing the game before release. Sometimes synonymous with Shipping.                                                   |
+| Forever Game				| An experience intentionally designed to continually draw players back in over a very long period of time by using a combination of engagement stategies |
 | Game Design                  | The discipline or process of defining the rules of how a system, feature or game functions. AKA Design                              |
 | Game Design Analysis         | The practice or process of examining a game's features or systems, either in isolation or as a whole, to understand how they interact to produce a result. AKA Design Analysis, Analysis     |
 | Game Design Critique         | The practice or process of producing an argument about aspects of a game's design and their effects on the game or player experience. AKA Design Critique                     |
