@@ -109,7 +109,7 @@ In general, fewer is better. This improves player clarity in expected action and
 
 Not all challenge types work naturally together. While some do, most are situational and one in particular is weak due to its contradictory nature.
 
-<img src="./images/linked_challenge_types.png" height="415" width="559">
+<img src="../images/linked_challenge_types.png" height="415" width="559">
 
 **Strongly Linked** challenge types are natural, expected pairings of gameplay challenges, such as Planning and Timing, which can be used to observe and understand a series of timed hazards. Note that when executing the action, Navigation often becomes part of the challenge, which is strongly linked to planning, and situationally linked to timing.
 
@@ -132,7 +132,7 @@ Let’s use a simple example: A shooting gallery
 For those unfamiliar, a shooting gallery is a game, typically found at fairs and carnivals, where a player stands still and shoots or throws objects at a series of moving targets.    
 To describe our challenge we’ll use **precision**, **timing** and **reflex** to give us the tools we need to create a challenge that can vary the level of intensity.
 
-<img src="./assets/images/challenge_low_intensity.png" height="482" width="519">
+<img src="../assets/images/challenge_low_intensity.png" height="482" width="519">
 
 By limiting the dimensions in the challenge to 2, all targets will appear at the same depth and that we’re eliminating any idea of projectile drop off. We’ve also kept external pressure low, meaning there are no distractions or interfering elements. The appearance of targets is regular, remaining for a long time, making them more predictable and generous to have a shot at. There are also few events that require player reaction (such as new targets appearing unexpectedly), but the windows are long to allow for slower reaction times. This makes for a fairly low intensity challenge that’s good for teaching a player how the mechanics work.
 
