@@ -73,7 +73,7 @@ showCategoryOnly = false
 showAuthorsBadges = false
 showWordCount = false
 showZenMode = true
-sharingLinks = ["bluesky", "mastodon" , "twitter", "linkedin"]
+sharingLinks = ["bluesky", "mastodon" , "linkedin"]
 
 [list]
 showHero = true
