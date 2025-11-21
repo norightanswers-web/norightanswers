@@ -109,7 +109,7 @@ In general, fewer is better. This improves player clarity in expected action and
 
 Not all challenge types work naturally together. While some do, most are situational and one in particular is weak due to its contradictory nature.
 
-<img src="/assets/images/linked_challenge_types.png" height="415" width="559">
+<img src="../../assets/images/linked_challenge_types.png" height="415" width="559">
 
 **Strongly Linked** challenge types are natural, expected pairings of gameplay challenges, such as Planning and Timing, which can be used to observe and understand a series of timed hazards. Note that when executing the action, Navigation often becomes part of the challenge, which is strongly linked to planning, and situationally linked to timing.
 
