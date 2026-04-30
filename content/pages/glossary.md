@@ -36,6 +36,7 @@ Below I’ve assembled some terms with definitions. I’ve written them based on
 | Cut                          | The process of removing tasks, systems or features from a game                                                                      |
 | Data                         | Any information that is an input acted upon by a system    |
 | Deliverable                  | A defined unit of work with a deadline or due date         |
+| Development Hell             | A state of constant revision, often with unguided, unclear or shifting priorities, leading to a protracted development cycle.    |
 | Emergence                    | An unplanned result of interacting systems during gameplay.                                                                         |
 | Emergent Gameplay            | Situations and outcomes created by the unplanned intersection of overlapping systems during Gameplay.                               |
 | Entity                       | An object within gameplay that has a defined set of attributes, beyond a prop. Typically used to refer to objects of consquence within the gameplay experience, such as the player or mobs.  |
@@ -94,8 +95,10 @@ Below I’ve assembled some terms with definitions. I’ve written them based on
 | Stand-up (Meeting)           | A short, informal meeting where participants state their currents tasks, progress and any dependancies (also called blockers) to their immediate team members. Used as component of Scrum.   |
 | Stand-up (Feature)           | The process of producing an early implementation of a feature or system.                                                            |
 | State Machine                | An atomic unit that consists of a collection of States, which perform actiosn, connected by conditional Transitions, to provide a consistent, situational outcome.            |
+| Subtractive Design           | A methodolodgy that aims to provide a honed experience through removing elements that are deemed unnecessary or overly costly.    |
 | System                       | A collection of rules that produces an output.             |
 | Task                         | A defined unit of work with a stated outcome.              |
+| Theorycraft                  | The practice of imagining potential outcomes or events based on expected behaviours without definitive proof.     |
 | Trigger                      | An action that occurs when specific criteia are met within gameplay. Often used with a volume to detect an entity entering or exiting the volume to produce an effect.        |
 | Tuning                       | The process of adjusting values defined in data to produce a desired result or outcome within a feature or system.                  |
 | Waterfall                    | A project management methodology that defines tasks that must be completed in a set sequence based on dependancies.                 |

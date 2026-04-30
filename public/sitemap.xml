@@ -4,18 +4,30 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/gameplay-challenge-types-framework/</loc>
-    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/know-your-leading-feature/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/5-more-tips-for-being-a-better-designer/</loc>
+    <lastmod>2026-01-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/gameplay-challenge-types-framework/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -101,11 +113,6 @@
   <url>
     <loc>http://localhost:1313/posts/what-a-game-designer-does/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/5-more-tips-for-being-a-better-designer/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
