@@ -2,7 +2,7 @@
 date = '2026-04-30'
 draft = false
 title = 'Know Your Leading Feature'
-summary = 'A way to define gameplay factors that are measurable, tunable and provides a common language for challenges.'
+summary = 'What is the most important feature in your game, and how important is that to understand?'
 tags = ['craft']
 +++
 
