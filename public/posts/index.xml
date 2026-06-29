@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 John Lethbridge</copyright>
-    <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Game Engines are Disposable</title>
+      <link>http://localhost:1313/posts/game-engines-are-disposable/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/game-engines-are-disposable/</guid>
+      <description>A way to define gameplay factors that are measurable, tunable and provides a common language for challenges.</description>
+      
+    </item>
     
     <item>
       <title>Know Your Leading Feature</title>
@@ -15,7 +25,7 @@
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/know-your-leading-feature/</guid>
-      <description>A way to define gameplay factors that are measurable, tunable and provides a common language for challenges.</description>
+      <description>What is the most important feature in your game, and how important is that to understand?</description>
       
     </item>
     
@@ -146,6 +156,16 @@
       
       <guid>http://localhost:1313/posts/what-a-game-designer-does/</guid>
       <description>A high level overview of what game designers do</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/holding-the-universe-in-your-head/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/holding-the-universe-in-your-head/</guid>
+      <description></description>
       
     </item>
     

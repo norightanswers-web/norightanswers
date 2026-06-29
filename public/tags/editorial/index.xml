@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 John Lethbridge</copyright>
-    <lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/editorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/editorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Game Engines are Disposable</title>
+      <link>http://localhost:1313/posts/game-engines-are-disposable/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/game-engines-are-disposable/</guid>
+      <description>A way to define gameplay factors that are measurable, tunable and provides a common language for challenges.</description>
+      
+    </item>
     
     <item>
       <title>Design for Engagement</title>
