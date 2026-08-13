@@ -2,7 +2,7 @@
 date = '2025-10-17'
 draft = false
 title = 'Designing in Tiers'
-summary = 'A method for designing features that lets you start small, grow naturally and react to proction realities.'
+summary = 'A method for designing features that lets you start small, grow naturally and react to production realities.'
 tags = ['craft']
 +++
 
